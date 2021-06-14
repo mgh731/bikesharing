@@ -9,11 +9,11 @@ The results displayed clear trends in the day of the week and the time of day th
 
 For instance, overall Citibikes were use between 4-7PM which aligns with the afternoon commute home. It should be noted that NYC has another means of transportation like buses and subways which are likely used in the morning commute. 
 
-![Story1](/images/Story1.png)
+![Story1.png](/Images/Story1.png)
 
 Within that time period the trips averaged about 40 minutes indicating that, on bike, a majority of destintions were at most 40 minutes away from the starting points. 
 
-![Story2](/images/Story2.png)
+![Story2](/Images/Story2.png)
 
 In looking into gender as a parameter for the data, we did not see a large difference in the usage trend (weekdays & evening commute). However there is a significant higher number of men that utilize these bikes than women or unknown. It would be a good idea to compare this usage with overall bike usage between men and women to validate if this follows the same trend. Typically the rides took place on Mondays, Tuesday, and Thursdays. Out of all the days Wednesdays were the least likely to see people using the Citibikes any time of the day. 
 ![Story3](/images/Story3.png)
